@@ -1,3 +1,7 @@
+#This is the code to find the location, carrier and the timezone of the inputed phone number
+#The module used in this python program is "phonenumbers"
+#Installation of the module :- "pip install phonenumbers"
+
 import phonenumbers
 from phonenumbers import geocoder,carrier,timezone
 
