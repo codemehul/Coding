@@ -1,3 +1,7 @@
+#This is Python Automation Project which takes your basic voice inputs and show the results.
+#Python modules used in this project are: smtplib, datetime, wikipedia, pyttsx3, speech_recognition, webbrowser, os
+#Module speech_recognition is giving some py_audio module errors which i am not able to correct, if you can please contribute.
+
 import smtplib
 import datetime
 from time import strftime
